@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minhazul-ashim
+- 👋 Hey, I’m Minhazul Haque Ashim.
 - 👀 I’m interested in Web and Mobile App Development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web and App Development
