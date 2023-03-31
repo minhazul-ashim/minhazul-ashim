@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Web App Development
 - 📫 You can reach me at my email address which is "minhazul.ashim@gmail.com". I am attaching other social media information as well.
 
+<h5>Connect with me here!!!</h5>
+
 <div style="display:flex; justify-content:center; align-items:center">
 <div  style="display:inline-block">
     <a target="__blank" href="https://facebook.com/minhazulhaqueashim">
