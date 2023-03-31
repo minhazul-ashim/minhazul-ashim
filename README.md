@@ -5,17 +5,17 @@
 - 📫 You can reach me at my email address which is "minhazul.ashim@gmail.com". I am attaching other social media information as well.
 
 <div style="display:flex; justify-content:center; align-items:center">
-<div>
+<div  style="display:inline-block">
     <a target="__blank" href="https://facebook.com/minhazulhaqueashim">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" width="48px" heigh="48px"/>
     </a>
 </div>
-<div>
+<div style="display:inline-block">
     <a target="__blank" href="https://linkedin.com/in/minhazulhaqueashim">
     <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="48px"  heigh="48px"/>
     </a>
 </div>
-<div>
+<div style="display:inline-block">
     <a target="__blank" href="https://minhazul-ashim-react.netlify.com/">
     <img src="https://png.pngtree.com/png-vector/20190321/ourmid/pngtree-vector-attachment-icon-png-image_854927.jpg" width="48px"  heigh="48px"/>
     </a>
