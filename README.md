@@ -5,7 +5,7 @@
 - 📫 How to reach me? You can reach me through my Email given on my info.
 
 <div style="width:600px; height:500px display:flex; align-items:center; justify-content:center" >
-<div style="width:50%;">
+<div style="width:300px;">
 <a href="https://app.daily.dev/minhazul_ashim"><img src="https://github.com/minhazul-ashim/devcard-autocommit/blob/main/devcard.svg" alt="minhazul Ashim's Dev Card"/></a>
 </div>
 </div>
