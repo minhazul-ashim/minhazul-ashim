@@ -4,24 +4,21 @@
 - 💞️ I’m looking to collaborate on Web App Development
 - 📫 You can reach me at my email address which is "minhazul.ashim@gmail.com". I am attaching other social media information as well.
 
-<h5>Connect with me here!!!</h5>
+<h3>Connect with me here!!!</h3>
 
-<div style="display:flex; justify-content:center; align-items:center">
-<div  style="display:inline-block">
-    <a target="__blank" href="https://facebook.com/minhazulhaqueashim">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" width="48px" heigh="48px"/>
-    </a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <i class="fab fa-facebook-f" style="font-size: 24px; margin-right: 8px;"></i>
+  <span style="font-size: 16px;">Facebook</span>
 </div>
-<div style="display:inline-block">
-    <a target="__blank" href="https://linkedin.com/in/minhazulhaqueashim">
-    <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="48px"  heigh="48px"/>
-    </a>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <i class="fab fa-linkedin-in" style="font-size: 24px; margin-right: 8px;"></i>
+  <span style="font-size: 16px;">LinkedIn</span>
 </div>
-<div style="display:inline-block">
-    <a target="__blank" href="https://minhazul-ashim-react.netlify.com/">
-    <img src="https://png.pngtree.com/png-vector/20190321/ourmid/pngtree-vector-attachment-icon-png-image_854927.jpg" width="48px"  heigh="48px"/>
-    </a>
-</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <i class="fas fa-external-link-alt" style="font-size: 24px; margin-right: 8px;"></i>
+  <span style="font-size: 16px;">Other Link</span>
 </div>
 
 <a href="https://app.daily.dev/minhazul_ashim"><img src="https://github.com/minhazul-ashim/devcard-autocommit/blob/main/devcard.svg" width="400px" style="margin:auto" alt="minhazul Ashim's Dev Card"/></a>
