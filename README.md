@@ -6,23 +6,24 @@
 
 <h3>Connect with me here!!!</h3>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://example.com/facebook-icon.png" alt="Facebook" style="width: 24px; height: 24px; margin-right: 8px;">
-      <span style="font-size: 16px;">Facebook</span>
-    </div>
-
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://example.com/linkedin-icon.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 8px;">
-      <span style="font-size: 16px;">LinkedIn</span>
-    </div>
-
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://example.com/other-link-icon.png" alt="Other Link" style="width: 24px; height: 24px; margin-right: 8px;">
-      <span style="font-size: 16px;">Other Link</span>
-    </div>
+<div style="width: 400px; height: 80px; display: flex; justify-content: center; align-items: center;">
+  <div>
+    <a href="https://www.facebook.com" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/145/145802.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
+    </a>
   </div>
+  <div>
+    <a href="https://www.linkedin.com" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
+    </a>
+  </div>
+  <div>
+    <a href="https://www.externalwebsite.com" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/126/126509.png" alt="External website icon" style="background-color: transparent; height: 50px;">
+    </a>
+  </div>
+</div>
+
 
 <a href="https://app.daily.dev/minhazul_ashim"><img src="https://github.com/minhazul-ashim/devcard-autocommit/blob/main/devcard.svg" width="400px" style="margin:auto" alt="minhazul Ashim's Dev Card"/></a>
 
