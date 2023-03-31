@@ -7,17 +7,17 @@
 <h3>Connect with me here!!!</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <i class="fab fa-facebook-f" style="font-size: 24px; margin-right: 8px;"></i>
+  <i class="bx bxl-facebook" style="font-size: 24px; margin-right: 8px;"></i>
   <span style="font-size: 16px;">Facebook</span>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <i class="fab fa-linkedin-in" style="font-size: 24px; margin-right: 8px;"></i>
+  <i class="bx bxl-linkedin" style="font-size: 24px; margin-right: 8px;"></i>
   <span style="font-size: 16px;">LinkedIn</span>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <i class="fas fa-external-link-alt" style="font-size: 24px; margin-right: 8px;"></i>
+  <i class="bx bx-link-external" style="font-size: 24px; margin-right: 8px;"></i>
   <span style="font-size: 16px;">Other Link</span>
 </div>
 
