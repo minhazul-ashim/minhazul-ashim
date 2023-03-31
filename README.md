@@ -14,7 +14,7 @@
   </div>
   <div>
     <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://cutewallpaper.org/24/linkedin-logo-transparent-png/hd-linkedin-official-logo-transparent-background-citypng.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
+      <img src="https://spng.pngfind.com/pngs/s/59-597768_linkedin-white-float-center-shiloh-linkedin-logo-for.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
