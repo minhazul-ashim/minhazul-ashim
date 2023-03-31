@@ -9,17 +9,17 @@
 <div style="width: 400px; height: 80px; display: flex; justify-content: center; align-items: center;">
   <div>
     <a href="https://www.facebook.com" target="_blank">
-      <img src="https://image.flaticon.com/icons/png/512/145/145802.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
+      <img src="https://www.citypng.com/public/uploads/preview/-11595349592mdhzsfgakx.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
     <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
+      <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
     <a href="https://www.externalwebsite.com" target="_blank">
-      <img src="https://image.flaticon.com/icons/png/512/126/126509.png" alt="External website icon" style="background-color: transparent; height: 50px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/External_link_font_awesome.svg/1200px-External_link_font_awesome.svg.png" alt="External website icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
 </div>
