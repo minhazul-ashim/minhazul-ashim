@@ -8,17 +8,17 @@
 
 <div style="width: 400px; height: 80px; display: flex; justify-content: center; align-items: center;">
   <div>
-    <a href="https://www.facebook.com" target="_blank">
+    <a href="https://www.facebook.com/minhazulhaqueashim" target="_blank">
       <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
-    <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://spng.pngfind.com/pngs/s/59-597768_linkedin-white-float-center-shiloh-linkedin-logo-for.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
+    <a href="https://www.linkedin.com/in/minhazulhaqueashim" target="_blank">
+      <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
-    <a href="https://www.externalwebsite.com" target="_blank">
+    <a href="https://minhazul-ashim-react.netlify.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/External_link_font_awesome.svg/1200px-External_link_font_awesome.svg.png" alt="External website icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
