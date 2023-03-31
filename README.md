@@ -9,12 +9,12 @@
 <div style="width: 400px; height: 80px; display: flex; justify-content: center; align-items: center;">
   <div>
     <a href="https://www.facebook.com" target="_blank">
-      <img src="https://www.citypng.com/public/uploads/preview/-11595349592mdhzsfgakx.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
+      <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="Facebook icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
     <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
+      <img src="https://cutewallpaper.org/24/linkedin-logo-transparent-png/hd-linkedin-official-logo-transparent-background-citypng.png" alt="LinkedIn icon" style="background-color: transparent; height: 50px;">
     </a>
   </div>
   <div>
