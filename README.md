@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Web and App Development
 - 📫 How to reach me? You can reach me through my Email given on my info.
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="minhazul Ashim's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/minhazul-ashim/devcard-autocommit/main/devcard.svg" width="400" alt="minhazul Ashim's Dev Card"/></a>
