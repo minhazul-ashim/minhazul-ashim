@@ -1,4 +1,4 @@
-<img width="400px" height="150px" src="assets/signature.png"/>
+<img width="600px" src="assets/signature.png"/>
 
 
 - 👋 Hello there, I’m <b style="color:teal">Minhazul Haque Ashim</b> , people address me as <b><i style="color:teal">Minhaz / Ashim</i></b> . I am a full time developer and part time problem solver.
