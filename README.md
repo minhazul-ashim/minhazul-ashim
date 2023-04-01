@@ -28,5 +28,5 @@
 <a href="https://app.daily.dev/minhazul_ashim"><img src="https://github.com/minhazul-ashim/devcard-autocommit/blob/main/devcard.svg" width="400px" style="margin:auto" alt="minhazul Ashim's Dev Card"/></a>
 
 <div style="width:600px; height:200px; position: relative;">
-    <img style="position:absolute; top: 0; bottom:0; right:0; left:0" src="assets/github-contribution-grid-snake.svg" alt="" height="300px"/>
+    <img style="position:absolute; top: 0; bottom:0; right:0; left:0" src="assets/github-contribution-grid-snake.svg" alt=""/>
 </div>
