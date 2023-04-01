@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m <b style="color:teal">Minhazul Haque Ashim</b> , people address me as <b><i style="color:teal">Minhaz / Ashim</i></b> . I am a full time developer and part time problem solver.
+- 👋 Hello there, I’m <h5><b style="color:teal">Minhazul Haque Ashim</b></h5> , people address me as <b><i style="color:teal">Minhaz / Ashim</i></b> . I am a full time developer and part time problem solver.
 - 👀 I’m interested and working with Web Application Development.
 - 🌱 My current stack is MERN stack as my primary stack, I am also looking forward to contribute in projects with Python, C#, C++ and Golang development.
 - 💞️ I’m looking to collaborate on Web App Development
