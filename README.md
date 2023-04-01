@@ -1,3 +1,6 @@
+<img width="200px" src="https://drive.google.com/file/d/14KtMChK-Li1dCOPM4XcaFEanO1WKkaxt/view?usp=drivesdk"/>
+
+
 - 👋 Hello there, I’m <b style="color:teal">Minhazul Haque Ashim</b> , people address me as <b><i style="color:teal">Minhaz / Ashim</i></b> . I am a full time developer and part time problem solver.
 - 👀 I’m interested and working with Web Application Development.
 - 🌱 My current stack is MERN stack as my primary stack, I am also looking forward to contribute in projects with Python, C#, C++ and Golang development.
