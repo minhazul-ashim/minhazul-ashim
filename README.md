@@ -3,9 +3,9 @@
 
 - 🪪 Full name is <b style="color:teal">Minhazul Haque Ashim</b> , people address me as <b><i style="color:teal">Minhaz / Ashim</i></b> .
 - 💻 A Full-time developer and part-time problem solver.
-- 📈 I’m working with Web Application Development.
-- 📚 My current stack is MERN stack as my primary stack, I am also looking forward to contribute in projects with Python, C#, C++ and Golang development.
-- 🙌 I’m looking to collaborate on Web App Development
+- 📈 Working with Web Application Development.
+- 📚 Primary stack is MERN, I am also looking forward to contribute in projects with Python, C#, C++ and Golang development.
+- 🙌 Looking to collaborate on Web App Development
 - 📨 Let's discuss your business. You can reach me at my email address which is "minhazul.ashim@gmail.com".
 
 <h3>You can also connect with me here!!</h3>
