@@ -24,6 +24,7 @@
 ### Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-yellow?style=flat-square&logo=express&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
 ![React](https://img.shields.io/badge/React-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
@@ -33,11 +34,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flastic&logo=Laravel&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Zustand](https://img.shields.io/badge/Zustand-white?style=flastic&logo=Zustand&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-f7f7f7?style=flastic&logo=AntDesign&logoColor=0170FE)
 ![Tailwind](https://img.shields.io/badge/Tailwind-563D7C?style=flat-square&logo=Tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flastic&logo=aws&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=flat-square&logo=Prisma&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
