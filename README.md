@@ -48,9 +48,6 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhazul-ashim&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Minhazul Ashim's GitHub status" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazul-ashim&theme=algolia" alt="Minhazul Ashim" />
 </p>
 
