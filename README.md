@@ -38,7 +38,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-563D7C?style=flat-square&logo=Tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-orange?style=flastic&logo=aws&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flastic&logo=AWS&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=flat-square&logo=Prisma&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
