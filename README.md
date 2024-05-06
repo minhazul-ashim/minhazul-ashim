@@ -23,7 +23,6 @@
 
 ### Languages and Tools:
 
-![C++](https://img.shields.io/badge/C++-aqua?style=flat-square&logo=cpp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-yellow?style=flat-square&logo=express&logoColor=white)
