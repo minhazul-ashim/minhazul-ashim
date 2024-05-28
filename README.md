@@ -1,5 +1,5 @@
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&duration=4000&pause=1000&color=36ACF7&background=0C58FF00&random=false&width=600&height=60&lines=Heyya!+I'm+Minhazul+Ashim.;I+am+in+a+quest+of+being+a;Versatile+Software+Engineer!!+%F0%9F%98%84" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&duration=4000&pause=1000&color=36ACF7&background=0C58FF00&random=false&width=600&height=60&lines=Heyya!+I'm+Minhazul+Ashim.;I+am+on+a+quest+of+being+a;Versatile+Software+Engineer!!+%F0%9F%98%84" alt="Typing SVG" /></a>
 </h1>
 
 - 🔭 Focusing on FullStack Development and a little bit DevOps.😎
